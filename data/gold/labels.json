@@ -1,0 +1,11 @@
+{
+  "_comment": "Expected decisions for the VISIBLE eval subset. `make eval` scores your agent's action against these. Passing bar is >= 0.80 accuracy. (Some invoices in data/invoices.json are intentionally NOT listed here.)",
+  "inv_001": { "action": "auto_approve", "reason": "clean_match_within_policy" },
+  "inv_002": { "action": "auto_approve", "reason": "clean_match_within_policy" },
+  "inv_003": { "action": "escalate", "reason": "low_confidence" },
+  "inv_004": { "action": "escalate", "reason": "over_auto_approve_threshold" },
+  "inv_005": { "action": "reject", "reason": "vendor_blocked" },
+  "inv_007": { "action": "auto_approve", "reason": "clean_match_within_policy" },
+  "inv_011": { "action": "hold", "reason": "po_mismatch" },
+  "inv_012": { "action": "hold", "reason": "missing_po" }
+}

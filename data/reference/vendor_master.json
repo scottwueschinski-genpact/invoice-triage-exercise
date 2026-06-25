@@ -1,0 +1,7 @@
+{
+  "Acme Industrial Supply": { "vendor_id": "V1001", "status": "active", "payment_terms": "NET30" },
+  "Global Logistics Partners": { "vendor_id": "V1002", "status": "active", "payment_terms": "NET45" },
+  "Brightline Office Co": { "vendor_id": "V1003", "status": "active", "payment_terms": "NET30" },
+  "Summit Facilities Mgmt": { "vendor_id": "V1004", "status": "active", "payment_terms": "NET60" },
+  "Northwind Traders": { "vendor_id": "V1005", "status": "blocked", "payment_terms": "NET30" }
+}

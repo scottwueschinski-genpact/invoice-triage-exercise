@@ -1,0 +1,50 @@
+[
+  {
+    "invoice_id": "inv_001",
+    "raw_text": "ACME INDUSTRIAL SUPPLY\nInvoice #: AC-2024-3391\nDate: 2024-03-14\nBill To: Genpact Shared Services\nPO Reference: PO-5001\n\nQty  Description          Unit    Amount\n200  Steel brackets       24.00   4,800.00\n\nSubtotal: 4,800.00 USD\nTotal Due: 4,800.00 USD\nTerms: NET30\nInternal Ref: inv_001"
+  },
+  {
+    "invoice_id": "inv_002",
+    "raw_text": "BRIGHTLINE OFFICE CO\nInvoice #: BR-2024-1180\nDate: 2024-03-15\nPO Reference: PO-5003\n\nQty  Description       Unit   Amount\n40   Copy paper (ream) 8.00   320.00\n\nTotal Due: 320.00 USD\nTerms: NET30\nInternal Ref: inv_002"
+  },
+  {
+    "invoice_id": "inv_003",
+    "raw_text": "ACME INDUSTRIAL SUPPLY\nInvoice #: AC-2024-3402\nDate: 2024-03-16\nPO Reference: PO-5005\n\nQty   Description    Unit   Amount\n1400  Hex bolts      1.50   2,100.00\n\n[NOTE: scan quality poor, several fields partially legible]\nTotal Due: 2,100.00 USD\nInternal Ref: inv_003"
+  },
+  {
+    "invoice_id": "inv_004",
+    "raw_text": "GLOBAL LOGISTICS PARTNERS\nInvoice #: GL-2024-7781\nDate: 2024-03-12\nPO Reference: PO-5002\n\nDescription                Amount\nQ1 freight & distribution  12,500.00\n\nTotal Due: 12,500.00 USD\nTerms: NET45\nInternal Ref: inv_004"
+  },
+  {
+    "invoice_id": "inv_005",
+    "raw_text": "NORTHWIND TRADERS\nInvoice #: NW-2024-0455\nDate: 2024-03-10\nPO Reference: (none provided)\n\nDescription           Amount\nMiscellaneous supplies 1,500.00\n\nTotal Due: 1,500.00 USD\nInternal Ref: inv_005"
+  },
+  {
+    "invoice_id": "inv_006",
+    "raw_text": "ZENITH PAPER & PACKAGING\nInvoice #: ZP-2024-2210\nDate: 2024-03-18\nPO Reference: PO-5099\n\nQty  Description        Unit   Amount\n500  Corrugated boxes   1.50   750.00\n\nTotal Due: 750.00 USD\nTerms: NET30\nInternal Ref: inv_006"
+  },
+  {
+    "invoice_id": "inv_007",
+    "raw_text": "SUMMIT FACILITIES MGMT\nInvoice #: SF-2024-0090\nDate: 2024-03-11\nPO Reference: PO-5004\n\nDescription                 Amount\nMonthly facilities service  4,950.00\n\nTotal Due: 4,950.00 USD\nTerms: NET60\nInternal Ref: inv_007"
+  },
+  {
+    "invoice_id": "inv_008",
+    "raw_text": "ACME INDUSTRIAL SUPPLY\nInvoice #: AC-2024-3391\nDate: 2024-03-20\nPO Reference: PO-5001\n\nQty  Description          Unit    Amount\n200  Steel brackets       24.00   4,800.00\n\nSubtotal: 4,800.00 USD\nTotal Due: 4,800.00 USD\n[Resubmitted - please process]\nInternal Ref: inv_008"
+  },
+  {
+    "invoice_id": "inv_009",
+    "raw_text": "BRIGHTLINE OFFICE CO\nInvoice #: BR-2024-1205\nDate: 2024-03-19\nPO Reference: PO-5006\n\nQty  Description        Unit   Amount\n60   Desk organizers    9.00   540.00\n\nTotal Due: 540.00 USD\nTerms: NET30\nInternal Ref: inv_009"
+  },
+  {
+    "invoice_id": "inv_010",
+    "raw_text": "ACME INDUSTRIAL SUPPLY\nInvoice #: AC-2024-3450\nDate: 2024-03-21\nPO Reference: PO-5007\n\nDescription          Amount\nPallet racking unit  5,200.00\n\nTotal Due: 5,200.00 USD\nTerms: NET30\nInternal Ref: inv_010"
+  },
+  {
+    "invoice_id": "inv_011",
+    "raw_text": "BRIGHTLINE OFFICE CO\nInvoice #: BR-2024-1212\nDate: 2024-03-22\nPO Reference: PO-5006\n\nQty  Description        Unit    Amount\n50   Toner cartridges   29.00   1,450.00\n\nTotal Due: 1,450.00 USD\nTerms: NET30\nInternal Ref: inv_011"
+  },
+  {
+    "invoice_id": "inv_012",
+    "raw_text": "ACME INDUSTRIAL SUPPLY\nInvoice #: AC-2024-3460\nDate: 2024-03-23\nPO Reference: (not provided)\n\nQty  Description        Unit   Amount\n10   Shipping labels    30.00  300.00\n\nTotal Due: 300.00 USD\nInternal Ref: inv_012"
+  }
+]

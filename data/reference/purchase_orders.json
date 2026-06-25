@@ -1,0 +1,9 @@
+{
+  "PO-5001": { "vendor_name": "Acme Industrial Supply", "amount": 4800.00, "currency": "USD", "status": "open" },
+  "PO-5002": { "vendor_name": "Global Logistics Partners", "amount": 12500.00, "currency": "USD", "status": "open" },
+  "PO-5003": { "vendor_name": "Brightline Office Co", "amount": 320.00, "currency": "USD", "status": "open" },
+  "PO-5004": { "vendor_name": "Summit Facilities Mgmt", "amount": 4950.00, "currency": "USD", "status": "open" },
+  "PO-5005": { "vendor_name": "Acme Industrial Supply", "amount": 2100.00, "currency": "USD", "status": "open" },
+  "PO-5006": { "vendor_name": "Brightline Office Co", "amount": 890.00, "currency": "USD", "status": "open" },
+  "PO-5007": { "vendor_name": "Acme Industrial Supply", "amount": 5200.00, "currency": "USD", "status": "open" }
+}
